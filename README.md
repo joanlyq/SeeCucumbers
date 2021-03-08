@@ -29,7 +29,7 @@
 		<li><a href="#detection">Detection</a></li>
 		<li><a href="#evaluation">Evaluation</a></li>
 		<li><a href="#contact">Contact</a></li>
-		<li><a href="#acknowledgement">Acknowledgement</a></li>
+		<li><a href="#acknowledgements">Acknowledgements</a></li>
 	</ol>
 </details>
 
