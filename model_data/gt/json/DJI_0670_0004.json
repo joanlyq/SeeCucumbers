@@ -1,0 +1,106 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          109.43328550932569,
+          262.19799139167867
+        ],
+        [
+          75.9038737446198,
+          222.19799139167864
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          120.0,
+          59.82352941176471
+        ],
+        [
+          84.70588235294117,
+          89.23529411764707
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          197.05882352941177,
+          193.3529411764706
+        ],
+        [
+          248.82352941176472,
+          243.3529411764706
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          248.23529411764707,
+          178.64705882352942
+        ],
+        [
+          305.29411764705884,
+          216.88235294117646
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          387.64705882352945,
+          171.58823529411765
+        ],
+        [
+          335.29411764705884,
+          135.7058823529412
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          415.0,
+          107.0
+        ],
+        [
+          394.11764705882354,
+          180.41176470588235
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0670_0004.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

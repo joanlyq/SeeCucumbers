@@ -1,0 +1,74 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          114.18502202643171,
+          307.9295154185022
+        ],
+        [
+          78.50220264317181,
+          270.0440528634361
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          200.96916299559473,
+          41.85022026431718
+        ],
+        [
+          146.34361233480178,
+          67.84140969162995
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          105.37444933920705,
+          32.59911894273128
+        ],
+        [
+          49.42731277533039,
+          6.167400881057269
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          324.3171806167401,
+          42.731277533039645
+        ],
+        [
+          266.6079295154185,
+          79.73568281938326
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0670_0029.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

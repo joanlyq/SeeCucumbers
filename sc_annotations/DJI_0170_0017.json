@@ -1,0 +1,26 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Other",
+      "points": [
+        [
+          110.46341463414633,
+          35.36585365853658
+        ],
+        [
+          145.8292682926829,
+          51.21951219512195
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0170_0017.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

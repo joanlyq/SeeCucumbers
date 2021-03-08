@@ -1,0 +1,26 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          228.7560975609756,
+          0.6097560975609756
+        ],
+        [
+          242.78048780487802,
+          61.58536585365853
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0005_0031.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

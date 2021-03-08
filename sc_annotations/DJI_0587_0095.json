@@ -1,0 +1,90 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          68.39024390243902,
+          254.87804878048777
+        ],
+        [
+          108.02439024390243,
+          201.21951219512192
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          207.41463414634146,
+          218.90243902439022
+        ],
+        [
+          152.53658536585365,
+          257.3170731707317
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          278.1463414634146,
+          263.4146341463414
+        ],
+        [
+          211.0731707317073,
+          281.7073170731707
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          86.68292682926828,
+          344.5121951219512
+        ],
+        [
+          135.46341463414632,
+          374.390243902439
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          151.3170731707317,
+          377.4390243902439
+        ],
+        [
+          136.68292682926827,
+          317.6829268292683
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0587_0095.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

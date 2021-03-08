@@ -1,0 +1,42 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "other",
+      "points": [
+        [
+          311.54185022026434,
+          235.6828193832599
+        ],
+        [
+          343.7004405286344,
+          295.1541850220264
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "other",
+      "points": [
+        [
+          384.2290748898679,
+          376.6519823788546
+        ],
+        [
+          352.0704845814978,
+          411.8942731277533
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0674_0039.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

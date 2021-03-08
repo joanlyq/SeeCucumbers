@@ -1,0 +1,26 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          278.7560975609756,
+          86.58536585365853
+        ],
+        [
+          312.29268292682923,
+          52.4390243902439
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0093_0099.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

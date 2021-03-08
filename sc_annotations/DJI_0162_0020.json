@@ -1,0 +1,42 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          173.2682926829268,
+          273.780487804878
+        ],
+        [
+          193.99999999999997,
+          303.04878048780483
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Other",
+      "points": [
+        [
+          215.9512195121951,
+          271.9512195121951
+        ],
+        [
+          194.60975609756096,
+          306.0975609756097
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0162_0020.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

@@ -1,0 +1,122 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          7.414634146341463,
+          126.82926829268291
+        ],
+        [
+          43.39024390243902,
+          169.5121951219512
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          173.8780487804878,
+          121.34146341463413
+        ],
+        [
+          215.34146341463412,
+          157.92682926829266
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          4.365853658536585,
+          370.73170731707313
+        ],
+        [
+          48.0,
+          415.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          257.4146341463414,
+          286.5853658536585
+        ],
+        [
+          215.9512195121951,
+          299.390243902439
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          218.99999999999997,
+          379.8780487804878
+        ],
+        [
+          206.0,
+          415.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          300.7073170731707,
+          360.36585365853654
+        ],
+        [
+          325.0975609756097,
+          341.4634146341463
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          240.34146341463412,
+          20.73170731707317
+        ],
+        [
+          215.9512195121951,
+          2.4390243902439024
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0595_0028.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

@@ -1,0 +1,106 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          98.26829268292683,
+          97.56097560975608
+        ],
+        [
+          59.24390243902438,
+          121.34146341463413
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          116.56097560975608,
+          179.2682926829268
+        ],
+        [
+          153.14634146341461,
+          123.78048780487804
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          203.14634146341461,
+          125.60975609756096
+        ],
+        [
+          239.12195121951217,
+          148.78048780487805
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          401.3170731707317,
+          123.78048780487804
+        ],
+        [
+          413.5121951219512,
+          146.34146341463415
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          228.14634146341461,
+          390.8536585365853
+        ],
+        [
+          181.1951219512195,
+          414.6341463414634
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          160.46341463414632,
+          381.7073170731707
+        ],
+        [
+          138,
+          415
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0595_0005.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

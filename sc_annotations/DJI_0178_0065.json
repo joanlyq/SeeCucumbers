@@ -1,0 +1,202 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          177.99118942731278,
+          139.20704845814979
+        ],
+        [
+          128.65198237885463,
+          170.92511013215858
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          210.14977973568284,
+          118.94273127753304
+        ],
+        [
+          263.0132158590308,
+          191.18942731277534
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          357.2863436123348,
+          133.48017621145374
+        ],
+        [
+          328.6519823788546,
+          179.29515418502203
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          236.5814977973568,
+          56.38766519823788
+        ],
+        [
+          183.71806167400882,
+          0.8810572687224669
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          42.74889867841409,
+          2.202643171806167
+        ],
+        [
+          0.0,
+          17.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          25.127753303964752,
+          112.33480176211454
+        ],
+        [
+          5.303964757709252,
+          188.54625550660793
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          117.19823788546256,
+          354.18502202643174
+        ],
+        [
+          53.76211453744493,
+          399.1189427312775
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          136.1409691629956,
+          265.19823788546256
+        ],
+        [
+          121.16299559471366,
+          319.38325991189424
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          107.0660792951542,
+          163.43612334801762
+        ],
+        [
+          52.88105726872247,
+          219.38325991189427
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          172.70484581497797,
+          369.6035242290749
+        ],
+        [
+          106.62555066079295,
+          400.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          181.95594713656388,
+          353.30396475770925
+        ],
+        [
+          118.96035242290748,
+          329.0748898678414
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          375.34801762114535,
+          372.2466960352423
+        ],
+        [
+          363.0132158590308,
+          303.5242290748899
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0178_0065.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

@@ -1,0 +1,106 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          41.56097560975609,
+          3.0487804878048776
+        ],
+        [
+          66.5609756097561,
+          48.17073170731707
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          15.341463414634145,
+          279.8780487804878
+        ],
+        [
+          73.26829268292683,
+          334.1463414634146
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          131.1951219512195,
+          208.53658536585365
+        ],
+        [
+          117.17073170731706,
+          156.09756097560975
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          240.34146341463412,
+          23.780487804878046
+        ],
+        [
+          295.8292682926829,
+          4.268292682926829
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          296.4390243902439,
+          228.04878048780486
+        ],
+        [
+          334.24390243902434,
+          189.6341463414634
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          373.8780487804878,
+          78.04878048780488
+        ],
+        [
+          401.92682926829264,
+          43.90243902439024
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0583_0009.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

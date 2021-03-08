@@ -1,0 +1,106 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          70.13215859030836,
+          114.97797356828194
+        ],
+        [
+          115.94713656387665,
+          74.8898678414097
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          215.06607929515417,
+          111.01321585903084
+        ],
+        [
+          157.3568281938326,
+          43.17180616740088
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          277.1806167400881,
+          3.5242290748898677
+        ],
+        [
+          255.1541850220264,
+          46.69603524229075
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          345.0220264317181,
+          213.215859030837
+        ],
+        [
+          312.86343612334804,
+          152.4229074889868
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          9.33920704845815,
+          304.4052863436123
+        ],
+        [
+          60.88105726872246,
+          367.84140969162996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          214.18502202643174,
+          311.0132158590308
+        ],
+        [
+          248.1057268722467,
+          375.77092511013217
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0992_0081.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

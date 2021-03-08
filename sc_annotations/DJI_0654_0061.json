@@ -1,0 +1,58 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hedulis",
+      "points": [
+        [
+          8.024390243902438,
+          241.46341463414632
+        ],
+        [
+          45.21951219512195,
+          289.6341463414634
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          399.48780487804873,
+          384.7560975609756
+        ],
+        [
+          415.0,
+          361.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          259.2439024390244,
+          70.73170731707316
+        ],
+        [
+          290.3414634146341,
+          91.46341463414633
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0654_0061.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

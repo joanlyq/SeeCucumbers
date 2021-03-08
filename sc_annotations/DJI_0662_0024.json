@@ -1,0 +1,58 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          129.36585365853657,
+          309.1463414634146
+        ],
+        [
+          181.1951219512195,
+          368.29268292682923
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          200.7073170731707,
+          139.6341463414634
+        ],
+        [
+          163.5121951219512,
+          157.3170731707317
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          150.09756097560975,
+          397.56097560975604
+        ],
+        [
+          164,
+          415
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0662_0024.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

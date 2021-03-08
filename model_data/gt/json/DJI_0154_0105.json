@@ -1,0 +1,106 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          61.68292682926828,
+          205.48780487804876
+        ],
+        [
+          112.90243902439023,
+          155.48780487804876
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          126.92682926829266,
+          162.1951219512195
+        ],
+        [
+          142.17073170731706,
+          189.02439024390242
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          209.24390243902437,
+          140.85365853658536
+        ],
+        [
+          230.58536585365852,
+          193.90243902439022
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          402.5365853658536,
+          207.92682926829266
+        ],
+        [
+          415.0,
+          277.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          244.60975609756096,
+          236.58536585365852
+        ],
+        [
+          313.5121951219512,
+          207.3170731707317
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          178.7560975609756,
+          21.95121951219512
+        ],
+        [
+          199.48780487804876,
+          0.6097560975609756
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0154_0105.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

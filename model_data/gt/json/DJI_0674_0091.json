@@ -1,0 +1,106 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          65.2863436123348,
+          121.58590308370044
+        ],
+        [
+          114.62555066079295,
+          38.32599118942731
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          50.30837004405285,
+          187.22466960352423
+        ],
+        [
+          99.647577092511,
+          149.7797356828194
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          194.80176211453744,
+          203.08370044052865
+        ],
+        [
+          252.511013215859,
+          230.83700440528634
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          205.81497797356826,
+          361.6740088105727
+        ],
+        [
+          169.2511013215859,
+          412.3348017621145
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          284.22907488986783,
+          310.1321585903084
+        ],
+        [
+          349.4273127753304,
+          266.9603524229075
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          17.268722466960355,
+          246.2555066079295
+        ],
+        [
+          65.2863436123348,
+          287.6651982378855
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0674_0091.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

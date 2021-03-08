@@ -1,0 +1,26 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "other",
+      "points": [
+        [
+          343.7004405286344,
+          196.91629955947135
+        ],
+        [
+          327.84140969162996,
+          264.75770925110135
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0992_0096.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

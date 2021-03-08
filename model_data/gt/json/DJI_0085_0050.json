@@ -1,0 +1,106 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          199.48780487804876,
+          226.8292682926829
+        ],
+        [
+          217.78048780487802,
+          206.09756097560975
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          113.51219512195121,
+          246.34146341463412
+        ],
+        [
+          93.99999999999999,
+          271.3414634146341
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          218.99999999999997,
+          319.5121951219512
+        ],
+        [
+          247.04878048780486,
+          289.0243902439024
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          297.6585365853658,
+          321.3414634146341
+        ],
+        [
+          254.97560975609753,
+          344.5121951219512
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          335.4634146341463,
+          384.7560975609756
+        ],
+        [
+          361.0731707317073,
+          369.5121951219512
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          312.9024390243902,
+          149.390243902439
+        ],
+        [
+          337.29268292682923,
+          179.2682926829268
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0085_0050.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

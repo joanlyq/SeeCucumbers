@@ -1,0 +1,106 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          266.5374449339207,
+          248.8986784140969
+        ],
+        [
+          319.40088105726875,
+          288.9867841409692
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          324.6872246696035,
+          143.1718061674009
+        ],
+        [
+          391.647577092511,
+          171.36563876651982
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          24.246696035242294,
+          126.431718061674
+        ],
+        [
+          52.44052863436123,
+          187.22466960352423
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          35.70044052863436,
+          44.49339207048458
+        ],
+        [
+          62.57268722466961,
+          109.69162995594714
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          122.04405286343612,
+          91.18942731277534
+        ],
+        [
+          182.83700440528634,
+          114.09691629955947
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          76.3170731707317,
+          300.0
+        ],
+        [
+          111.07317073170731,
+          332.3170731707317
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0166_0034.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

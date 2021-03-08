@@ -1,0 +1,106 @@
+{
+  "version": "4.5.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          73.88034188034189,
+          127.35042735042735
+        ],
+        [
+          111.05982905982907,
+          214.95726495726498
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          140.97435897435898,
+          100.42735042735043
+        ],
+        [
+          194.3931623931624,
+          132.47863247863248
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          77.2991452991453,
+          99.14529914529915
+        ],
+        [
+          98.66666666666669,
+          26.06837606837607
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          369.1794871794872,
+          283.7606837606838
+        ],
+        [
+          329.43589743589746,
+          212.82051282051285
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hleucospilota",
+      "points": [
+        [
+          246.95726495726495,
+          6.410256410256411
+        ],
+        [
+          335.84615384615387,
+          40.17094017094017
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Hatra",
+      "points": [
+        [
+          131.5726495726496,
+          1.7094017094017095
+        ],
+        [
+          208.4957264957265,
+          22.222222222222225
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DJI_0359_0021.tif",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 416
+}

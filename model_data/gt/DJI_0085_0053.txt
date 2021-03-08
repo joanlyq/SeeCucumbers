@@ -1,0 +1,4 @@
+Sea_cucumber 116 51 141 76
+Sea_cucumber 89 179 136 200
+Sea_cucumber 239 339 273 404
+Sea_cucumber 279 346 319 362
