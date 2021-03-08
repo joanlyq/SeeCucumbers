@@ -8,20 +8,6 @@
 <details open="open">
 	<summary>Table of Contents</summary>
 	<ol>
-		<li>[About the Project](#about-the-project)</li>
-		<li>[Getting Started](#getting-started)</li>
-		<li>[Data Preparation](#data-preparation)</li>
-		<li>[Training and Validation](#training-and-validation)</li>
-		<li>[Detection](#detection)</li>
-		<li>[Evaluation](#evaluation)</li>
-		<li>[Contact](#contact)</a></li>
-		<li>[Acknowledgements](#acknowledgements)</li>
-	</ol>
-</details>
-
-<details open="open">
-	<summary>Table of Contents2</summary>
-	<ol>
 		<li><a href="#about-the-project">About the Project</a></li>
 		<li><a href="#getting-started">Getting Started</a></li>
 		<li><a href="#data-preparation">Data Preparation</a></li>
