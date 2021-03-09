@@ -22,7 +22,8 @@
 <a name="about-the-project"></a>
 ## About the Project
 
-This repository contains a tutorial of sea cucumber detection from drone images using YOLOv3, inspired by [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3).
+This is a companion repository to a journal paper entitled 'SeeCucumber: ASDFASDFASDF' which is currently under review.
+The work investigated sea cucumber detection from drone images using YOLOv3. The implementation of the YOLOv3 architecture in Keras was inspired by [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3).
 
 Here is the detected result sample: 
 ![Result](detected_result/dr_sample.png)
@@ -36,7 +37,7 @@ Here is the detected result sample:
     - tensorflow 1.13.1. 
    The detailed requirements can be checked at [requirements.txt](requirements.txt)
 
-2. Download the repo using following CLI or from current webpage
+2. Download the repo using following command or from current webpage
 ```
 	git clone https://github.com/joanlyq/SeeCucumbers.git
 ```
@@ -93,13 +94,13 @@ Change the `annotation_path` in `detect.py` and `score` in `yolo.py` according t
 
 <a name="contact"></a>
 ## Contact
-If you have any questions or would like to contribute to this repo, please contact through [email](mailto:joan.li@my.jcu.edu.au) or [twitter](https://twitter.com/joan_lyq).
+If you have any questions of this repo, please contact through [email](mailto:joan.li@my.jcu.edu.au) or [twitter](https://twitter.com/joan_lyq).
 
 <a name="acknowledgements"></a>
 ## Acknowledgements
 I would like to thank Dr. Karen Joyce, Dr. Stephanie Duce for brining me into this project. I would also like to thank Todd McNeill for his help in collecting drone imagery (full image collection can be found [here](data.geonadir.com));Dr. Jane Williamson and other volunteers for their help in labelling the dataset. 
 
-* Other usefull links that inspired me:
+* Other usefull links:
 	* [YOLO website](https://pjreddie.com/darknet/yolo/)
 	* [gustavovaliati/keras-yolo3](https://github.com/gustavovaliati/keras-yolo3)
 	* [AlexAB/darknet](https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects)
