@@ -104,3 +104,25 @@ I would like to thank Dr. Karen Joyce, Dr. Stephanie Duce for brining me into th
 	* [YOLO website](https://pjreddie.com/darknet/yolo/)
 	* [gustavovaliati/keras-yolo3](https://github.com/gustavovaliati/keras-yolo3)
 	* [AlexAB/darknet](https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects)
+
+## Citations
+
+If you use the DeepWeeds dataset in your work, please cite it as:
+
+Li, J.Y.Q.; Duce, S.; Joyce, K.E.; Xiang, W. SeeCucumbers: Using Deep Learning and Drone Imagery to Detect Sea Cucumbers on Coral Reef Flats. Drones 2021, 5, 28. https://doi.org/10.3390/drones5020028 
+
+## BibTeX
+```
+@article{drones5020028,
+AUTHOR = {Li, Joan Y. Q. and Duce, Stephanie and Joyce, Karen E. and Xiang, Wei},
+TITLE = {SeeCucumbers: Using Deep Learning and Drone Imagery to Detect Sea Cucumbers on Coral Reef Flats},
+JOURNAL = {Drones},
+VOLUME = {5},
+YEAR = {2021},
+NUMBER = {2},
+ARTICLE-NUMBER = {28},
+URL = {https://www.mdpi.com/2504-446X/5/2/28},
+ISSN = {2504-446X},
+DOI = {10.3390/drones5020028}
+}
+```
