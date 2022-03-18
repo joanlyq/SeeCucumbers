@@ -107,7 +107,7 @@ I would like to thank Dr. Karen Joyce, Dr. Stephanie Duce for brining me into th
 
 ## Citations
 
-If you use the DeepWeeds dataset in your work, please cite it as:
+If you use the SeeCucumbers dataset in your work, please cite it as:
 
 Li, J.Y.Q.; Duce, S.; Joyce, K.E.; Xiang, W. SeeCucumbers: Using Deep Learning and Drone Imagery to Detect Sea Cucumbers on Coral Reef Flats. Drones 2021, 5, 28. https://doi.org/10.3390/drones5020028 
 
